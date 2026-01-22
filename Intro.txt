@@ -1,3 +1,5 @@
 Plan 372 Intro Repository
 
 1/20 - creating directory
+
+1/22 - making a change
